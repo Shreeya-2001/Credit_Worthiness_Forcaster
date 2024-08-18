@@ -83,6 +83,11 @@ features from preexisting ones.
 Classifier (RFC), XGBoost, Logistic Regression, and Artificial Neural Networks (ANN).
 6. Front-end Development: We use Streamlit, a Python package for developing interactive web applications, to create a user-friendly front-end.
 
+## Flow-Diagram
+
+![image](https://github.com/user-attachments/assets/22af66bb-9681-4361-b577-f1b12ca588e1)
+
+
 ## Conclusion and Future Scope
 The loan defaulter prediction model developed in this project demonstrates the potential to significantly improve the decision-making process for lenders. By accurately identifying individuals or entities at higher risk of defaulting on their loans, financial institutions can take proactive measures to mitigate risk, such as adjusting interest rates, requiring additional collateral, or declining high-risk applications. The model’s performance, as measured by metrics like accuracy, precision, recall, and AUCROC, indicates its robustness and reliability. However, it is essential to recognize that the model’s effectiveness relies on the quality and quantity of input data. Continuous monitoring and retraining of the model with new data are crucial to maintain its predictive accuracy over time.
       Looking forward, the model could be further refined by incorporating additional features, such as macroeconomic indicators, or by exploring more advanced techniques like ensemble learning and deep learning. Additionally, ethical considerations, such as fairness and transparency in the prediction process, should be carefully addressed to ensure that the model’s deployment does not inadvertently discriminate against specific groups.
